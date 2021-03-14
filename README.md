@@ -8,5 +8,5 @@
 ### Road Lanes Estimation
 ![alt text](https://github.com/NekSfyris/Road-and-Lane-Estimation/blob/master/results/1.png)
 
-### Detected Car and Distance Estimation 
+### Detected Cars and Distance from them Estimation 
 ![alt text](https://github.com/NekSfyris/Road-and-Lane-Estimation/blob/master/results/2.png)
